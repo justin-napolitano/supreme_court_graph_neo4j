@@ -21,6 +21,12 @@ seoSecondaryKeywords:
   - legal data modeling
   - graph database api
 seoOptimized: true
+topicFamily: datascience
+topicFamilyConfidence: 0.85
+topicFamilyNotes: >-
+  The post focuses on data modeling, querying complex relational/legal data with a graph database
+  (Neo4j), and an API layer for legal data analysis, falling closely under data analysis and data
+  engineering workflows typical of the datascience family.
 ---
 
 # supreme_court_graph_neo4j: Technical Overview and Implementation Notes
@@ -69,3 +75,4 @@ The repository contains an API layer encapsulated within the `neo4jAPI` director
 This project applies graph database technology to the domain of Supreme Court legal data, addressing the challenges of modeling and querying complex legal relationships. The use of Neo4j and an API layer provides a flexible and scalable foundation for legal data analysis and research.
 
 *This document serves as a technical reference for developers returning to the project, emphasizing the architectural rationale and practical implementation details.*
+
