@@ -1,12 +1,27 @@
 ---
-slug: "github-supreme-court-graph-neo4j"
-title: "supreme_court_graph_neo4j"
-repo: "justin-napolitano/supreme_court_graph_neo4j"
-githubUrl: "https://github.com/justin-napolitano/supreme_court_graph_neo4j"
-generatedAt: "2025-11-23T09:46:14.239972Z"
-source: "github-auto"
+slug: github-supreme-court-graph-neo4j
+title: Modeling Supreme Court Legal Data Using Neo4j Graph Database
+repo: justin-napolitano/supreme_court_graph_neo4j
+githubUrl: https://github.com/justin-napolitano/supreme_court_graph_neo4j
+generatedAt: '2025-11-23T09:46:14.239972Z'
+source: github-auto
+summary: >-
+  Technical overview of representing Supreme Court cases, justices, and citations with Neo4j and an
+  API layer for complex legal data queries.
+tags:
+  - neo4j
+  - graph-database
+  - legal-data
+  - supreme-court
+  - api
+  - data-modeling
+seoPrimaryKeyword: neo4j graph database
+seoSecondaryKeywords:
+  - supreme court data
+  - legal data modeling
+  - graph database api
+seoOptimized: true
 ---
-
 
 # supreme_court_graph_neo4j: Technical Overview and Implementation Notes
 
