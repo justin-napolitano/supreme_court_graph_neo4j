@@ -1,20 +1,31 @@
 ---
 slug: github-supreme-court-graph-neo4j
 id: github-supreme-court-graph-neo4j
-title: supreme_court_graph_neo4j
+title: Supreme Court Graph Database with Neo4j
 repo: justin-napolitano/supreme_court_graph_neo4j
 githubUrl: https://github.com/justin-napolitano/supreme_court_graph_neo4j
 generatedAt: '2025-11-24T21:36:38.006Z'
 source: github-auto
 summary: >-
-  A project aimed at representing and analyzing data related to the United
-  States Supreme Court using Neo4j graph database technology. This repository
-  contains the API and associated scripts to interact with the Neo4j database
-  for querying and managing Supreme Court data.
-tags: []
-seoPrimaryKeyword: ''
-seoSecondaryKeywords: []
-seoOptimized: false
+  Explore a project that uses Neo4j to analyze data related to the United States
+  Supreme Court with an API for querying and management.
+tags:
+  - neo4j
+  - graph database
+  - API
+  - data analysis
+  - Python
+  - Node.js
+  - Supreme Court
+seoPrimaryKeyword: supreme court graph database
+seoSecondaryKeywords:
+  - neo4j API
+  - data visualization
+  - query performance
+  - Python Neo4j
+  - Node.js Neo4j
+  - graph data management
+seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
 kind: project
